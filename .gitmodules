@@ -2,3 +2,6 @@
 	path = lerobot
 	url = https://github.com/huggingface/lerobot.git
   branch = feature-robotis
+[submodule "fairino"]
+	path = fairino
+	url = https://github.com/samuelp4065/fairino-python-sdk-main
